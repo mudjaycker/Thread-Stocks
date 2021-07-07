@@ -1,4 +1,4 @@
-from Stocks import Stocks
+from .Stocks import Stocks
 import threading
 import time
 
